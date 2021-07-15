@@ -3,6 +3,7 @@
 I am Gabriel.
 - 💬 Ask me about C, C++, C#, Python, JavaScript, SQL
 - 📫 How to reach me: milshteingabriel@gmail.com
+- My LinkedIn profile: linkedin.com/in/gabriel-milshtein-28509b1b2
 - I'm also familiar with: Sockets, Threads, Computer Networks, Node.js, WPF, ASP.NET
 
 <!--
