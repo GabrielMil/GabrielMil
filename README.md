@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am Gabriel.
+- 💬 Ask me about C, C++, C#, Python, JavaScript, SQL
+- 📫 How to reach me: milshteingabriel@gmail.com
+- I'm also familiar with: Sockets, Threads, Computer Networks, Node.js, WPF, ASP.NET
+
 <!--
 **GabrielMil/GabrielMil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
